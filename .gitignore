@@ -1,0 +1,16 @@
+# Derlenmis program ve ara dosyalar
+kutuphane
+kutuphane.exe
+*.o
+*.obj
+
+# Kisisel notlar ve rehber (depoya yuklenmez)
+YOL_HARITASI.md
+*.pdf
+
+# Editor / sistem dosyalari
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
