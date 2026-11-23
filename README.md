@@ -3,6 +3,7 @@
 > **Not:** Geliştirme aşamasında. Modüller ekip üyeleri tarafından tamamlandıkça bu belge güncellenecektir.
 
 **Ders:** BLP 205 Veri Yapıları – Final Projesi
+**Grup:** 14 (BLP205-2026-GUZ-FINAL-PROJESI-GRUP-14)
 **Kurum:** Doğuş Üniversitesi MYO – Bilgisayar Programcılığı
 **Dil / Standart:** C++11 (konsol uygulaması)
 

@@ -2,7 +2,7 @@
 
 **Proje:** Kampüs Kütüphanesi ve Öğrenci Hizmetleri Otomasyonu
 **Ders:** BLP 205 Veri Yapıları
-**Grup No:** _
+**Grup No:** 14
 
 ## Özet Tablo
 
